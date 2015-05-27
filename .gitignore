@@ -7,5 +7,4 @@
 *.bundle
 /pkg
 /doc/api
-/Gemfile.lock
 /tmp
